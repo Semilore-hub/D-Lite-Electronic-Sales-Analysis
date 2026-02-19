@@ -18,9 +18,10 @@ pivot tables and dashboard
   - Charts
   - Dashboard
 ## KEY INSIGHTS
-### Highest sales by region
+   **Region Insight**
   - The Eastern Region generated the highest total revenue among all regions which indicated strong market performance
      and higher customer demand in that area
   - This suggest that the company shpould focus more on marketing efforts ad inventory supply in the eastern region to
      maximize profits
   - Although other region contributes greatly too but none outperformed the easten region in overall sales
+    **Product Performance** 
