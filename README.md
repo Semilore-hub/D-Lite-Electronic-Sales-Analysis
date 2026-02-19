@@ -45,4 +45,4 @@ pivot tables and dashboard
    - strategic focus on high performing products,regions and representatives can further increase profitability
 
   ## DASHBOARD PREVIEW
-    ![Dashboard Screenhot] ( <img width="1295" height="537" alt="D-LITES SALES DASHBOARD Preview" src="https://github.com/user-attachments/assets/ed262192-c73d-47dd-ba60-1886c2852c8c" />)
+    ![Dashboard Screenhot] 
