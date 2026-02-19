@@ -24,4 +24,8 @@ pivot tables and dashboard
   - This suggest that the company shpould focus more on marketing efforts ad inventory supply in the eastern region to
      maximize profits
   - Although other region contributes greatly too but none outperformed the easten region in overall sales
-    **Product Performance** 
+    
+    **Product Performance**
+    - Phone X12 was the highest- selling product, which contributed to the large share of revenue
+    - it indicates that there is a strong customer demand of this product
+    
