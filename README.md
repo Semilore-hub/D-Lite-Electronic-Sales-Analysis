@@ -45,5 +45,6 @@ pivot tables and dashboard
    - strategic focus on high performing products,regions and representatives can further increase profitability
 
   ## DASHBOARD PREVIEW
-    ![D-Lite Electronics Dashboard](d-lites_sales_dashboard_preview.png)
+    ![D-Lite Electronics Dashboard]
+    (d-lites_sales_dashboard_preview.png)
     
